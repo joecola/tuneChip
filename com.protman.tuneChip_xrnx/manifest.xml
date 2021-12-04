@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6</ApiVersion>
+  <AutoUpgraded>true</AutoUpgraded>
+  <Id>com.protman.tuneChip</Id>
+  <Version>1.0</Version>
+  <Author>protman</Author>
+  <Name>TuneChip</Name>
+  <Category>In Progress</Category>
+  <Description>Quickly tune the currently selected sample's loop</Description>
+  <Homepage>https://prot.audio</Homepage>
+</RenoiseScriptingTool>
